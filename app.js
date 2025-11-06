@@ -1,5 +1,5 @@
 const OWNER = 'echofsadness'; 
-const REPO = 'TURanking';  
+const REPO = 'RTAUnits';  
 const PATH = 'ranks.json';      
 const BRANCH = 'main';        
 
