@@ -1,0 +1,18 @@
+{
+  "_order": [
+    "[RTP] Traffic Unit | กองบังคับการตำรวจจราจร"
+  ],
+  "[RTP] Traffic Unit | กองบังคับการตำรวจจราจร": {
+    "_meta": {
+      "insignia": "rbxassetid://104252456874747",
+      "bgColor": [
+        255,
+        131,
+        29
+      ]
+    },
+    "luckythaina2": "[CO] Commanding Officer | ผู้บังคับบัญชากองกำกับการตำรวจจราจร",
+    "ice_thailandfram2": "[FD] Founder | ผู้ก่อตั้ง",
+    "Jeenjeen5678": "[FD] Co-Founder | รองผู้ก่อตั้ง"
+  }
+}
