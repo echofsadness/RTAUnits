@@ -1,19 +1,33 @@
 {
   "_order": [
-    "[RTA] Provost Marshal General Department | กรมสารวัตรทหารบก"
+    "[RTA] Provost Marshal General Department | กรมการสารวัตรทหารบก",
+    "[RTA] 11th Military Police Battalion | กองพันทหารสารวัตรที่ ๑๑"
   ],
-  "[RTA] Provost Marshal General Department | กรมสารวัตรทหารบก": {
+  "[RTA] Provost Marshal General Department | กรมการสารวัตรทหารบก": {
     "_meta": {
-      "insignia": "rbxassetid://132897099005146",
+      "insignia": "rbxassetid://123479238541696",
+      "bgColor": [
+        129,
+        204,
+        122
+      ]
+    },
+    "luckythaina2": "Provost Marshal General | เจ้ากรมการสารวัตรทหารบก",
+    "Goo_peipordee": "Officer Grade I | ทหารสารวัตรระดับ ๑",
+    "Madmax_4071": "Project Leader | หัวหน้าโครงการ"
+  },
+  "[RTA] 11th Military Police Battalion | กองพันทหารสารวัตรที่ ๑๑": {
+    "_meta": {
+      "insignia": "rbxassetid://118884919877717",
       "bgColor": [
         4,
         11,
         120
       ]
     },
-    "luckythaina2": "[PMG] Provost Marshal General | เจ้ากรมการสารวัตรทหารบก",
-    "Goo_peipordee": "[OG1] Officer Grade I | ทหารสารวัตรขั้น ๑",
-    "Madmax_4071": "[Project Leader | หัวหน้าโครงการ]"
+    "luckythaina2": "Provost Marshal General | เจ้ากรมการสารวัตรทหารบก",
+    "Goo_peipordee": "Security and Control Division | กองควบคุมและรักษาความปลอดภัย",
+    "Madmax_4071": "Project Leader | หัวหน้าโครงการ"
   }
 }
 
